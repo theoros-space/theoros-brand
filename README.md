@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/brand-light.png" width="100%" alt="theoros-brand">
 </picture>
 
-<p><a href="LICENSE"><img src="https://img.shields.io/badge/license-brand%20terms-8B929D?style=flat-square&labelColor=11151C" alt="license: brand terms"></a></p>
+<p><a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-brand-terms-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-brand-terms-light.png" height="31" alt="license: brand terms"></picture></a></p>
 
 ## Overview
 
@@ -65,27 +65,37 @@ Closest Pantone for Infrared: Orange 021 C; confirm with a printed swatch.
 
 Fonts are licensed by their authors and are not redistributed here.
 
-## GitHub assets
+## GitHub kit
 
-Designed in Figma and exported for the organisation profile and every
-repository README. Each banner and diagram has a dark and a light version.
+Designed in the Theoros Brand Identity Figma file, page **GitHub**, from the
+brand Library (semantic colour variables, text styles, logo set, Orbit Lines
+and icons). Every banner, diagram, stat card and badge exists in a dark and a
+light version; READMEs serve both with `<picture>`.
 
-| Path | Contents |
-|---|---|
-| [`github/avatar-1024.png`](github/avatar-1024.png) | Organisation avatar, 1024 x 1024 |
-| [`github/banners/`](github/banners/) | Profile banner and one banner per repository, 2560 x 640 |
-| [`github/diagrams/`](github/diagrams/) | Product flow and TheorosNet architecture, 2560 wide |
-| [`github/social/`](github/social/) | Repository social previews, 1280 x 640 |
+| Path | Contents | Size |
+|---|---|---|
+| [`github/avatar/`](github/avatar/) | Organisation avatar in four tones | 1024 x 1024 |
+| [`github/profile/`](github/profile/) | Organisation profile banner | 2560 x 960 |
+| [`github/banners/`](github/banners/) | One header banner per repository | 2560 x 800 |
+| [`github/diagrams/`](github/diagrams/) | Product flow, TheorosNet architecture, delivery lifecycle | 2560 wide |
+| [`github/stats/`](github/stats/) | Key figure cards | 746 x 464 |
+| [`github/badges/`](github/badges/) | Status, license, part, tier, target and build badges | 2x |
+| [`github/social/`](github/social/) | Repository social previews | 1280 x 640 |
+| [`github/release/`](github/release/) | Release note headers | 1280 x 320 |
+| [`github/team/`](github/team/) | Team avatars | 512 x 512 |
 
 <p>
-  <img src="github/diagrams/flow-light.png" width="49%" alt="Product flow diagram">
-  <img src="github/diagrams/architecture-light.png" width="49%" alt="Architecture diagram">
+  <img src="github/avatar/signal-on-void.png" width="15%" alt="Organisation avatar">
+  <img src="github/team/models.png" width="15%" alt="Models team avatar">
+  <img src="github/team/edge.png" width="15%" alt="Edge team avatar">
+  <img src="github/team/delivery.png" width="15%" alt="Delivery team avatar">
+  <img src="github/team/ground.png" width="15%" alt="Ground team avatar">
 </p>
 
 ## Source files
 
 The master Figma files hold every application: stationery, deck, social,
-print and these GitHub assets. Ask brand@theoros.space for access.
+print and the GitHub kit. Ask brand@theoros.space for access.
 
 ## License
 
@@ -95,8 +105,8 @@ See [LICENSE](LICENSE). The brand assets are not open source.
 
 <p align="center">
   <a href="https://github.com/theoros-space"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-paper.svg">
-    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-ink.svg" width="28" alt="Theoros">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg">
+    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg" width="28" alt="Theoros">
   </picture></a>
   <br>
   <sub>Theoros &nbsp;·&nbsp; Onboard AI for Earth observation &nbsp;·&nbsp; Baku and Helsinki &nbsp;·&nbsp; <a href="https://theoros.space">theoros.space</a></sub>
