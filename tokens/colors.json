@@ -1,0 +1,18 @@
+{
+  "void": "#08090C",
+  "orbit": "#11151C",
+  "graphite": "#262B34",
+  "slate": "#4A515C",
+  "lunar": "#8B929D",
+  "haze": "#D6D9DE",
+  "frost": "#ECEDEF",
+  "paper": "#F5F4F0",
+  "infrared": "#FF4B1F",
+  "infrared-deep": "#C7330F",
+  "infrared-soft": "#FFD9CC",
+  "ion": "#3E7BFA",
+  "ion-deep": "#1F55C9",
+  "ion-soft": "#D4E2FF",
+  "aurora": "#2FD39A",
+  "aurora-deep": "#0E7A54"
+}
